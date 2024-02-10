@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Ethan Snyder </b> :wave: </h1>
 <br>
-![](https://github.com/[MorgaseTrakand]/[MorgaseTrakand]/blob/[main]/vecteezy_wildlife-elk-in-forest-nature-landscape-vector-illustration_.jpg?raw=true)
+![t](https://github.com/[MorgaseTrakand]/[MorgaseTrakand]/blob/[main]/vecteezy_wildlife-elk-in-forest-nature-landscape-vector-illustration_.jpg?raw=true)
 
 <h3 align="center">Test </h3>
 
