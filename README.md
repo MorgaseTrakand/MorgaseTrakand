@@ -1,14 +1,9 @@
 <h1 align="center"><b>Hi , I'm Ethan Snyder </b> :wave: </h1>
-<br>
-
-<h3 align="center">Test </h3>
 
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Ethan+Snyder;++;Self-Taught+Front- 
 	End+Developer,;Computer+Science+Student,;Active+Learner/Researcher,..<3"></a>
 </p>
-<br>
-<h2>About Me</h2>
 
 - A passionate self-taught web developer
 - Built [Spotify Statistics Application](https://github.com/MorgaseTrakand/spotify-stats-express)
